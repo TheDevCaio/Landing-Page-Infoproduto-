@@ -1,0 +1,59 @@
+p { 
+  font-size: 80;
+  width: 2000; 
+  height: 300s;
+  background: rgb(52,163,163,0.57);
+  
+ 
+  
+
+-webkit-box-shadow:4px 0px 39px 45px rgba(52,163,163,0.57);
+-moz-box-shadow: 4px 0px 39px 45px rgba(52,163,163,0.57);
+box-shadow: 4px 0px 39px 45px rgba(52,163,163,0.57);
+
+margin-top:70px;
+}
+button { 
+  font-size: 50;
+  width: 1500; 
+  height: 195;
+  background: rgb(0, 0, 0);
+
+  transition: all 0.5s ease-in;
+
+  border: none;
+  outline:none; 
+
+
+-webkit-box-shadow:4px 0px 39px 45px rgba(52,163,163,0.57);
+-moz-box-shadow: 4px 0px 39px 45px rgba(52,163,163,0.57);
+box-shadow: 4px 0px 39px 45px rgba(52,163,163,0.57);
+
+margin-top:100px;
+}
+
+h3 { 
+  font-size: 50;
+  width: 1500; 
+  height: 85;
+  background: rgb(0, 0, 0);
+
+-webkit-box-shadow:4px 0px 39px 45px rgba(52,163,163,0.57);
+-moz-box-shadow: 4px 0px 39px 45px rgba(52,163,163,0.57);
+box-shadow: 4px 0px 39px 45px rgba(52,163,163,0.57);
+
+padding-top: 100px;
+}
+
+.btn {
+  font-size: 150;
+  width: 1000; 
+  height: 500;
+margin: top 2000px;
+
+}
+
+.espaco {
+  margin:top
+
+}
