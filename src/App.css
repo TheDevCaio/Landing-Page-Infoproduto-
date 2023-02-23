@@ -7,13 +7,14 @@
 }
 
 
-button { 
-  text-align: center;
-    width: 150px;
-    height: 150px;
 
-  font-size: 30;
-  width: 1200; 
+button { 
+ text-align: center;
+    width: 100px;
+    height: 100px;
+
+  font-size: 27;
+  width: 900; 
   height: 175;
   background: rgb(0, 0, 0);
 
@@ -35,14 +36,13 @@ margin-block-end: 100px;
 
 .espaco {
   margin:top
-
 }
 
 
 
 
 :root {
- text-align: center;
+  text-align: center;
   --cor-azul: #3BF1F4;
   --cor-preto: #000000;
 
@@ -64,21 +64,20 @@ margin-block-end: 100px;
 }
 .btn-neon {
   border:4px solid var(--cor-azul);
-  text-align: center;
   position: relative;
   text-transform: capitalize;
+  text-align: center;
   text-decoration:none;
   color: var(--cor-azul);
   background-color: transparent;
   cursor: pointer;
-  font-size: 7em;
+  font-size: 5em;
   font-family: 'open_sansregular';
   transition:0.4s;
   text-shadow: 0 0 0.125em rgba(0, 0, 0, 0.5), 0 0 0.25em currentColor;
   box-shadow: inset 0 0 0.5em 0 var(--cor-azul), 0 0 0.5em 0 var(--cor-azul);
 }
 .btn-neon:hover {
-  
   color: var(--cor-hover);
   border:4px solid var(--cor-hover);
   transition:0.4s;
@@ -126,5 +125,4 @@ button:hover {
 background-color: rgba(255, 238, 0, 0.932);
     opacity: 7;
     color:rgb(37, 35, 35);
-    
 }   
